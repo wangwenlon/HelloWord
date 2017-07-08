@@ -1,2 +1,4 @@
 wwww
 chedan
+:wq
+jj
